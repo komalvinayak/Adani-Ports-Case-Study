@@ -120,7 +120,7 @@ Reference: Weihrich, H. (1982). The TOWS Matrix: A Tool for Situational Analysis
 
 | Priority | Action | Framework | Timing rationale |
 |----------|--------|-----------|-----------------|
-| 1 | Scale Vizhinjam transshipment hub | SO | MSC deal opens an 18 to 24 month window before Colombo can respond |
+| 1 | Scale Vizhinjam transshipment hub | SO | MSC commitment (June 2026) provides commercial validation; early scale-up establishes first-mover position in India’s transshipment market|
 | 2 | Green Bond debt refinancing | WO | Rate environment and BBB rating make this the right moment |
 | 3 | East coast port development | WO | IMEC is operational now, not projected |
 
