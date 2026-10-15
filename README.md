@@ -23,7 +23,7 @@ One thing worth noting: APSEZ is not just a port business. It combines port infr
 
 ## Competitive comparison
 
-I benchmarked APSEZ against JSW Infrastructure (the most aggressive private competitor) and JNPT (the largest government port).
+I benchmarked APSEZ against JSW Infrastructure (the fastest-growing private competitor) and JNPT (the largest government port).
 
 | Factor | APSEZ | JSW Infrastructure | JNPT |
 |--------|-------|-------------------|------|
@@ -63,7 +63,7 @@ APSEZ's revenue is 7.2 times larger than JSW and its cargo volume is 4.1 times l
 
 ### Opportunities
 
-**O1: Vizhinjam transshipment.** India routes 30 to 35 percent of its container transshipment through Colombo, paying a Sri Lankan port for a service India could offer domestically. Vizhinjam's natural draft depth (20 metres plus) is already suited to ultra-large vessels. MSC's commitment in June 2026 confirms commercial viability. The first-mover window here is 10 to 15 years before competing Indian capacity can be built.
+**O1: Vizhinjam transshipment.** India currently routes a significant share of container transshipment through Colombo. Vizhinjam is the first Indian port with the natural draft depth to handle this traffic domestically.
 
 **O2: India-Middle East-Europe Economic Corridor (IMEC).** Announced at G20 in September 2023, phase 1 became operational in February 2026. This connects India to Europe via rail through UAE, Saudi Arabia, Jordan, and Israel, bypassing the Suez Canal. APSEZ's port network sits at the Indian entry point of this corridor.
 
@@ -117,8 +117,6 @@ Reference: Weihrich, H. (1982). The TOWS Matrix: A Tool for Situational Analysis
 | Focus on strengthening existing India ports before adding international exposure | Taking on new geographies while carrying Rs 63,566 crore in debt adds financial, execution, and geopolitical risk at the same time. |
 
 ## Strategic priorities
-
-If I had to rank three actions for the next 12 to 18 months:
 
 | Priority | Action | Framework | Timing rationale |
 |----------|--------|-----------|-----------------|
