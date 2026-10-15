@@ -3,7 +3,7 @@ Frameworks used: SWOT + TOWS Matrix (Weihrich, 1982)
 
 ## What this is
 
-This is an academic case study I completed for my Strategic Management course. The topic was assigned by my professor: analyse the competitive position of a major Indian company using SWOT and TOWS frameworks. I chose to extend the brief by grounding every data point in primary sources (regulatory filings, company presentations, credit agency reports) rather than secondary summaries.
+This is an academic case study I completed for my Strategic Management course. The focus: analyse the competitive position of a major Indian company using SWOT and TOWS frameworks. I went beyond the basic requirement by verifying every data point against primary sources (regulatory filings, company presentations, credit agency reports) rather than relying on secondary summaries.
 
 The company: **Adani Ports and Special Economic Zone Ltd (APSEZ)**, India's largest private port operator by cargo volume and container share.
 
