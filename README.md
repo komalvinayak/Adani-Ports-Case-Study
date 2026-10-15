@@ -57,7 +57,7 @@ APSEZ's revenue is 7.2 times larger than JSW and its cargo volume is 4.1 times l
 
 **W2: Mundra concentration.** A disproportionate share of group revenue comes from one port. A natural disaster, regulatory problem, or operational disruption at Mundra would have an outsized effect on the group's overall financials.
 
-**W3: Group reputation risk.** The January 2023 Hindenburg Research report created lasting caution among institutional investors toward the broader Adani Group. This does not reflect APSEZ's own operations, but it affects equity valuation and debt appetite in ways the company cannot fully control.
+**W3: Group-level risk exposure.** As part of a large diversified conglomerate, APSEZ’s equity valuation and debt appetite can be influenced by events at the group level that are outside the port business itself.
 
 **W4: Dividend yield.** 0.42%, which is below sector peers. This makes APSEZ less attractive to income-oriented institutional investors.
 
@@ -71,7 +71,7 @@ APSEZ's revenue is 7.2 times larger than JSW and its cargo volume is 4.1 times l
 
 ### Threats
 
-**T1: JSW Infrastructure acceleration.** JSW grew from 9 to 14 terminals in under three years and is now targeting 400 MTPA capacity. Unlike government ports, JSW operates with private capital and moves faster.
+**T1: JSW Infrastructure acceleration.** JSW operates with private capital and has demonstrated faster terminal expansion than traditional port operators.
 
 **T2: Regulatory and tariff risk.** The Tariff Authority for Major Ports (TAMP) framework can impose tariff caps. If its scope extends to private ports, APSEZ's pricing flexibility would narrow.
 
@@ -89,7 +89,7 @@ Reference: Weihrich, H. (1982). The TOWS Matrix: A Tool for Situational Analysis
 
 | Strategy | Why it makes sense |
 |----------|--------------------|
-| Scale Vizhinjam into India's primary transshipment hub | BBB rating brings cheaper debt for port development. MSC's commitment reduces demand-side risk. India stops paying Colombo for a service it can now provide. |
+| Scale Vizhinjam into India's primary transshipment hub | BBB rating brings cheaper debt for port development. MSC's commitment reduces demand-side risk. Reduces India’s reliance on foreign transshipment ports for domestic cargo. |
 | Anchor the IMEC corridor as the primary Indian gateway | 19 ports plus integrated logistics is the natural fit for the corridor entry point. First-mover positioning here is durable because of the infrastructure required. |
 | Build an AI-powered logistics platform for China Plus One manufacturers | Kaleris at Mundra is the working model. Manufacturers choosing India need end-to-end supply chain certainty, not just port access. APSEZ is the only operator positioned to offer both. |
 
@@ -107,13 +107,13 @@ Reference: Weihrich, H. (1982). The TOWS Matrix: A Tool for Situational Analysis
 |----------|--------------------|
 | Develop 3 to 4 east coast ports to reduce Mundra dependency | IMEC and Vizhinjam create genuine demand for east coast presence. Geographic diversification addresses both revenue concentration and the new opportunity at the same time. |
 | Refinance high-cost debt via Green Bonds | BBB rating qualifies APSEZ for green bond issuance. Typical pricing is 50 to 100 basis points below conventional debt. ESG-compliant financing also attracts sovereign wealth fund capital. |
-| Publish a detailed ESG transparency report | Institutional investors require ESG disclosure as a minimum condition before allocating capital. A credible report addresses the group reputation overhang directly. |
+| Publish a detailed ESG transparency report | Institutional investors require ESG disclosure as a minimum condition before allocating capital. A credible ESG report builds institutional investor confidence and meets minimum disclosure requirements for capital allocation. |
 
 ### WT: Reduce vulnerabilities and avoid compounded risk
 
 | Strategy | Why it makes sense |
 |----------|--------------------|
-| Establish a crisis communication protocol before the next reputational event | Reactive damage control after a crisis is more expensive and less effective than preparation before it. |
+| Establish a proactive stakeholder communication framework | Reactive damage control after a crisis is more expensive and less effective than preparation before it. |
 | Focus on strengthening existing India ports before adding international exposure | Taking on new geographies while carrying Rs 63,566 crore in debt adds financial, execution, and geopolitical risk at the same time. |
 
 ## Strategic priorities
