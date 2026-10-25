@@ -41,7 +41,7 @@ APSEZ's revenue is 7.2 times larger than JSW and its cargo volume is 4.1 times l
 
 ### Strengths
 
-**S1: Market scale.** 27.6% overall cargo share and 44.8% container share. These numbers reflect network effects: more ports attract more shipping lines, and more shipping lines attract more manufacturers to APSEZ's SEZ.
+**S1: Market scale.** In Q1 FY27, APSEZ held 27.6% of India's overall cargo market and 44.8% of India's container market. These numbers reflect network effects: more ports attract more shipping lines, and more shipping lines attract more manufacturers to APSEZ's SEZ.
 
 **S2: Revenue growth.** Rs 16,156 crore in FY22 to Rs 38,736 crore in FY26. A 24% CAGR over four years in an infrastructure business is hard to sustain, and APSEZ has sustained it.
 
