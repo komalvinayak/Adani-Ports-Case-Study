@@ -65,7 +65,7 @@ APSEZ's revenue is 7.2 times larger than JSW and its cargo volume is 4.1 times l
 
 **O1: Vizhinjam transshipment.** India currently routes a significant share of container transshipment through Colombo. Vizhinjam is the first Indian port with the natural draft depth to handle this traffic domestically.
 
-**O2: India-Middle East-Europe Economic Corridor (IMEC).** Announced at G20 in September 2023, phase 1 became operational in February 2026. This connects India to Europe via rail through UAE, Saudi Arabia, Jordan, and Israel, bypassing the Suez Canal. APSEZ's port network sits at the Indian entry point of this corridor.
+**O2: India-Middle East-Europe Economic Corridor (IMEC).** This connects India to Europe via rail through UAE, Saudi Arabia, Jordan, and Israel, bypassing the Suez Canal. APSEZ's port network sits at the Indian entry point of this corridor.
 
 **O3: China Plus One manufacturing shift.** Global manufacturers are actively reducing China dependency and looking at India. Each new manufacturing plant near an Indian port or SEZ becomes a long-term cargo customer. APSEZ's Mundra SEZ (6,000 acres) is well-placed to capture this demand.
 
